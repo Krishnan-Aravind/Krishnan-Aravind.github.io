@@ -9,17 +9,14 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>0.13, Gebaude C 7,3</p>
+    <p>Saarland University</p>
+    <p>Saarbrücken, 66123</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+I am a Master student at at the [Language Science and Technology Department](https://www.uni-saarland.de/en/department/lst.html) of of [Saarland University](https://www.uni-saarland.de/en/home.html). I also work as a researcher at the Spoken Language Systems (LSV) group led by [Dietrich Klakow](https://scholar.google.de/citations?user=_HtGYmoAAAAJ&hl=en&oi=ao). I work in two SFB projects: [1102 C4:Mutual Intelligibility and Surprisal in Slavic Intercomprehension](https://sfb1102.uni-saarland.de/projects/mutual-intelligibility-and-surprisal-in-slavic-intercomprehension-incomslav/) and  [1102 B4: Modelling and Measuring Information Density](https://sfb1102.uni-saarland.de/projects/modeling-and-measuring-information-density/)
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm currently exploring langauge modelling and interpretability in the context of automatic speech recognition. Feel free to reach out if you'd like to collaborate or talk over a cup of chai.  
