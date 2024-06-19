@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Marius Mosbach nags me into making a personal website. I'm sure I'll thank him later.
+Marius Mosbach nags me into making a personal website. I am sure I will thank him later.
