@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Marius Mosbach](https://mmarius.github.io/) nags me into making a personal website. I'm sure I'll thank him later.
+Marius Mosbach nags me into making a personal website. I'm sure I'll thank him later.
