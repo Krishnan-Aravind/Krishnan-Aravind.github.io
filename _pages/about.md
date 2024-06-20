@@ -9,9 +9,9 @@ profile:
   image: krishnan_profile_headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>0\.13\, Gebaude C 7\.3</p>
+    <p>0.13, Gebaude C 7.3</p>
     <p>Saarland University</p>
-    <p>Saarbrücken\, 66123</p>
+    <p>Saarbrücken, 66123</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
