@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'll be in Vienna 🇦🇹 attending ACL 2025! Come say hi 👋 if you want to chat about Speech-LM or LLM interpretability
+I'll be in Vienna🎻attending [ACL 2025](https://2025.aclweb.org/)! Come say hi 👋 if you want to chat about Speech-LM or LLM interpretability
