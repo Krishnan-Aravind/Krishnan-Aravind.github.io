@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Not all Data are Unlearned Equally](https://arxiv.org/abs/2504.05058) has been accepted to [COLM 2025](https://colmweb.org/). Montréal, me revoilà\!🍁
+[Not all Data are Unlearned Equally](https://arxiv.org/abs/2504.05058) has been accepted at [COLM 2025](https://colmweb.org/). Montréal, me revoilà\!🍁
