@@ -18,6 +18,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Master student at the [Language Science and Technology Department](https://www.uni-saarland.de/en/department/lst.html) of [Saarland University](https://www.uni-saarland.de/en/home.html). I also work as a researcher at the Spoken Language Systems \(LSV\) group led by [Dietrich Klakow](https://scholar.google.de/citations?user=_HtGYmoAAAAJ&hl=en&oi=ao). I work in two SFB projects\: [1102 C4\:Mutual Intelligibility and Surprisal in Slavic Intercomprehension](https://sfb1102.uni-saarland.de/projects/mutual-intelligibility-and-surprisal-in-slavic-intercomprehension-incomslav/) and  [1102 B4\: Modelling and Measuring Information Density](https://sfb1102.uni-saarland.de/projects/modeling-and-measuring-information-density/).
-
-I\'m currently exploring language modelling and interpretability in the context of automatic speech recognition. Feel free to reach out if you\'d like to collaborate or talk over a cup of chai.
+I'm a PhD student at the [Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de/) and the [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web/), where I work with Prof. Dietrich Klakow on all things speech—from language models to interpretability (and sometimes, unintelligibility). Feel free to reach out if you\'d like to collaborate or talk over a cup of chai.
