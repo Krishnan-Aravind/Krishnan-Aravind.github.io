@@ -18,6 +18,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at the [Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de/) and the [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web/), where I work with Prof. Dietrich Klakow on speech-language models and interpretability. 
+I am a PhD student at the [Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de/) and the [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/en/web/), where I work with [Prof. Dietrich Klakow](https://scholar.google.com/citations?user=_HtGYmoAAAAJ&hl=de) on speech-language models and interpretability. 
 
 Feel free to reach out if you\'d like to collaborate or talk over a cup of chai.
